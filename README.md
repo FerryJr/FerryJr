@@ -17,6 +17,8 @@
 <img align="left" alt="Ferry Github Stats" src="https://github-readme-stats.vercel.app/api?username=FerryJr&show_icons=true&hide_border=true&theme=tokyonight" />
 
 ---
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerryJr)](https://github.com/FerryJr/github-readme-stats)
 
 [instagram]: https://www.instagram.com/ferryjr07/
