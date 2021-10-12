@@ -13,13 +13,8 @@
 
 <br />
 
----
-
-<img align="left" alt="Ferry Github Stats" src="https://github-readme-stats.vercel.app/api?username=FerryJr&show_icons=true&hide_border=true&theme=tokyonight" />
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerryJr&layout=compact)](https://github.com/FerryJr/github-readme-stats)
+| <a href="https://github.com/FerryJr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FerryJr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=tokyonight" alt="Ferry github stats" /></a> | <a href="https://github.com/FerryJr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryJr&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
