@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Ferry 👋
 
-<!--
-**FerryJr/FerryJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student!!
 
-Here are some ideas to get you started:
+- 🔭 I'm currently student at University of Lampung
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Get Rich!
+- ⚡ Fun fact: I love to play games and play music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<img align="left" alt="Ferry Github Stats" src="https://github-readme-stats.vercel.app/api?username=FerryJr&show_icons=true&hide_border=true" />
+
+[instagram]: https://www.instagram.com/ferryjr07/
