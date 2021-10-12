@@ -12,6 +12,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
 
 <img align="left" alt="Ferry Github Stats" src="https://github-readme-stats.vercel.app/api?username=FerryJr&show_icons=true&hide_border=true" />
 
