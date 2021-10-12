@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Finstagram-logo&psig=AOvVaw2HZ6VQJCUjJpPny1EKiSMG&ust=1634120008271000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjWgsbRxPMCFQAAAAAdAAAAABAD" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"/>][instagram]
 
 <br/>
 <br/>
