@@ -19,6 +19,9 @@
 ---
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerryJr)](https://github.com/FerryJr/github-readme-stats)
+### Most Used Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerryJr&layout=compact)](https://github.com/FerryJr/github-readme-stats)
+
+<br />
 [instagram]: https://www.instagram.com/ferryjr07/
