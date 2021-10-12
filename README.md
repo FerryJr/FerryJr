@@ -11,7 +11,7 @@
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+
 
 | <a href="https://github.com/FerryJr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FerryJr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=tokyonight" alt="Ferry github stats" /></a> | <a href="https://github.com/FerryJr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryJr&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
